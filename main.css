@@ -1,0 +1,19 @@
+.title {
+	font-weight: bold; 
+	font-size: 50px; 
+	color: orange;
+}
+body {
+	background-image: url("https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash3/861214_593452814027257_832031420_o.jpg");
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+	width: 100%;
+	height: auto;
+	background-color: black;
+	padding-top: 50px;
+}
+
+.button-room {
+	margin: 5px;
+}
+
